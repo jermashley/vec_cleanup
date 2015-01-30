@@ -1,0 +1,46 @@
+/* CSS Document */
+
+#holder  {
+	max-width: 540px;
+	border:  1px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#holder img  {
+	border: 0px;
+	text-decoration: none;
+}
+
+#holder p  {
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#holder A:link  {
+	border: 0px;
+}
+
+#thumbnails  {
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#thumbnails p  {
+	text-align: center;
+}
+
+#thumbnails a:link  {
+	border: 0px;
+}
+
+#thumbnails img  {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px #000000 solid;
+}

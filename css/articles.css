@@ -1,0 +1,66 @@
+body  {
+	font-size: small;
+	background-color: #efddaf;
+	background-image: url(../media/images/common/background.jpg);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#verse  {
+	text-align: center;
+	font-size: 100%;
+	margin: 15px 20px 15px 20px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 1.8em;
+	font-style: italic;
+	text-indent: 0em;
+}
+
+#container  {
+	width: 800px;
+	background-color: #ffffff;
+	border: 1px solid #8b4513;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../media/images/common/cowboy_1.gif);
+	background-position: top;
+	background-repeat: no-repeat;
+}
+
+#container h1  {
+	text-align: center;
+	font-size: 165%;
+	font-style: italic;
+	margin-top: 35px;
+	margin-bottom: 25px;
+	color: #000000;
+}
+
+#container p  {
+	text-align: left;
+	font-size: 100%;
+	margin: 15px 20px 15px 20px;
+	text-indent: 2em;
+	line-height: 2em;
+	color: #000000;
+}
+
+A:link  {
+	color: #0000ff;
+	text-decoration: none;
+	border-bottom: 1px dotted #0000ff;
+}
+
+A:visited  {
+	color: #0000ff;
+	text-decoration: none;
+	border-bottom: 1px dotted #0000ff;
+}
+
+A:hover  {
+	color: #ff0000;
+	text-decoration: none;
+	border-bottom: 1px dotted #ff0000;
+}

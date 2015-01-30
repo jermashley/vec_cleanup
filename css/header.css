@@ -1,0 +1,31 @@
+/* CSS Document */
+
+#header  {
+	width: 920px;
+	height: 166px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo  {
+	width: 150px;
+}
+
+#logo p {
+	text-align: center;
+}
+
+#logo img  {
+	width:149px;
+	height:150px;
+	border: 0px;
+	margin-left: 10px;
+}
+
+#verse  {
+	width: 655px;
+}
+
+#verse img {
+	margin-left: 70px;
+}

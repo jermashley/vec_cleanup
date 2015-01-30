@@ -1,0 +1,119 @@
+/* CSS Document */
+
+#navbar  {
+	width: 177px;
+	height: 375px;
+	background-image: url(../media/images/common/navbar.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+}
+
+#snavbar  {
+	width: 177px;
+	height: 410px;
+	background-image: url(../media/images/common/navbar_spanish.png);
+	background-position: top left;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+}
+
+/*     English Navbar     */
+
+#navbar p  {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 177px;
+	margin-left: 20px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #efddaf;
+}
+
+#navbar ul  {
+	margin-top: 2px;
+	margin-bottom: 7px;
+}
+
+#navbar li  {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 2px;
+	font-size: 11px;
+	font-weight:bold;
+	color:#efddaf;
+}
+
+#navbar a:link  {
+	font-size: 11px;
+	color: #efddaf;
+	text-decoration: none;
+}
+
+#navbar a:visited  {
+	font-size: 11px;
+	color: #efddaf;
+	text-decoration: none;
+}
+
+#navbar a:hover  {
+	font-size: 12px;
+	color: #ffff33;
+	text-decoration: none;
+}
+
+#navbar a:active  {
+	font-size: 11px;
+	color: #efddaf;
+	text-decoration: none;
+}
+
+/*     Spanish Navbar     */
+
+#snavbar p  {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 177px;
+	margin-left: 20px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #efddaf;
+}
+
+#snavbar ul  {
+	margin-top: 2px;
+	margin-bottom: 7px;
+}
+
+#snavbar li  {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 2px;
+	font-size: 11px;
+	font-weight:bold;
+	color:#efddaf;
+}
+
+#snavbar a:link  {
+	font-size: 11px;
+	color: #efddaf;
+	text-decoration: none;
+}
+
+#snavbar a:visited  {
+	font-size: 11px;
+	color: #efddaf;
+	text-decoration: none;
+}
+
+#snavbar a:hover  {
+	font-size: 12px;
+	color: #ffff33;
+	text-decoration: none;
+}
+
+#snavbar a:active  {
+	font-size: 11px;
+	color: #efddaf;
+	text-decoration: none;
+}

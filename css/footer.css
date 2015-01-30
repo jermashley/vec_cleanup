@@ -1,0 +1,87 @@
+/* CSS Document */
+
+#footer  {
+	width: 920px;
+	height: 135px;
+	background-color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 25px;
+}
+
+#left  {
+	width: 340px;
+}
+
+#center  {
+	width: 290px;
+}
+
+#right  {
+	width: 290px;
+}
+
+.footer_txt  {
+	font-size: 11px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.footer_txt A:link {
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+.footer_txt A:visited  {
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+.footer_txt A:hover  {
+	color: #ff0000;
+	text-decoration: none;
+	border-bottom: 1px dotted #ff0000;
+}
+
+.email  {
+	font-size: 11px;
+	font-weight: bold;
+	margin-left: 30px;
+	text-indent: -10px;
+}
+
+.email A:link  {
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+.email A:visited  {
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+.email A:hover  {
+	color: #ff0000;
+	text-decoration: none;
+	border-bottom: 1px dotted #ff0000;
+}
+
+.country  {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ed2024;
+	margin-left: 50px;
+	margin-top: 15px;
+}
+
+.address  {
+	font-size: 11px;
+	margin-left: 65px;
+}
+
+.phone  {
+	margin-left: 50px;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}

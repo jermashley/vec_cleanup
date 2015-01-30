@@ -1,0 +1,74 @@
+/* CSS Document */
+
+body  {
+	padding: 0px;
+	margin: 0px;
+	margin-top: 20px;
+	background-color: #efddaf;
+	background-image: url(../media/images/common/background.jpg);
+	font-size: small;
+}
+
+#container  {
+	width: 920px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 377px;
+	border: 0px;
+}
+
+#container>table  {
+	width: 920px;
+	padding: 0px;
+}
+
+.vidoes  {
+	margin-left:  35px;
+}
+
+.video_description  {
+	width: 650px;
+	height: 115px;
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 105%;
+	text-decoration: none;
+	line-height: 1.6em;
+	color: #000000;
+}
+
+.video_thumbnail  {
+	width: 150px;
+	height: 100px;
+	margin: 0px;
+	margin-left: 50px;
+	float: right;
+	padding: 0px;
+	border: 1px solid #000000;
+	box-shadow: 3px 3px 3px #515151;
+}
+
+.clear_left  {
+	clear: left;
+}
+
+#video  {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#webmaster  {
+	font-size: 9px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	text-align: right;
+	margin-top: 10px;
+}
+
+.horses  {
+	text-align: center;
+	border: 0px;
+}

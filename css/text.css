@@ -1,0 +1,87 @@
+/* CSS Document */
+
+.image_type1  { 
+	text-align: center;
+	font-size: 110%;
+	font-weight: bold;
+	line-height: 1.6em;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 50px;
+}
+
+.image_type1 img  {
+	border: 1px solid #000000;
+	margin-bottom: 15px;
+}
+
+.main_txt  { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 110%;
+	line-height: 1.5em;
+	text-indent: 0em;
+	margin: 15px 10px 15px 30px;
+	width: 640px;
+}
+
+.main_txt img  {
+	border: 1px solid #000000;
+}
+
+ul  {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 110%;
+}
+
+#content h1  {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+#content h2  {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+#content h3  {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 125%;
+}
+
+#content h4  {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 105%;
+}
+
+#content A:link  { 
+	color: #0000ff;
+	border-bottom: 1px dotted #000000;
+	text-decoration: none; 
+}
+					
+#content A:visited  { 
+	color: #0000ff;
+	border-bottom: 1px dotted #000000;
+	text-decoration: none; 
+}
+
+#contact  {
+	width: 100%;
+}
+
+.film  {
+	vertical-align: middle;
+	margin-left: 10px;
+}
+
+.project_list  {
+	list-style-image: url(../media/images/common/checkmark.png);
+	list-style-position: outside;
+}
+
+.project_list li  {
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
